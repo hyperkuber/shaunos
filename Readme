@@ -1,4 +1,50 @@
 # ShaunOS
 
+This is a hobby os written by shaun  yuan  from  scrach. It is a 32bit x86 arch system. For those who wants to learn kernel concepts or others, this is a better start point.
+
+
+Main Features
+==============
+grub multiboot loading
+
+AHCI controller driver
+
+TTY
+
+Intel e1000 card driver
+
+both elf static & dynamic linked binary loading
+
+ext2 file system
+
+real mode switching
+
+ps2 keyboard driver
+
+mouse driver
+
+virtual and physical memory management
+
+pci bus driver
+
+multi-thread, multi-process
+
+vesa driver
+
+vfs
+
+tcp-ip network stack
+
+graphic driver
+
 
 For details, visit  https://www.xiaoyao.io/shaun-os
+
+And https://www.xiaoyao.io/557.html
+
+
+## License
+
+Copyright Shaun Yuan.
+
+Apache 2.
